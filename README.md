@@ -29,13 +29,6 @@ It was completed as part of my learning journey in data analytics and demonstrat
 
 ---
 
-## 📂 Files in This Repo
-- `salary_analysis.ipynb` → Jupyter notebook with full analysis  
-- `README.md` → Project documentation  
-- `data/` → (optional: add dataset if allowed to share)  
-
----
-
 ## 🚀 Next Steps
 - Apply regression models to predict salary levels  
 - Compare results across different ML approaches  
